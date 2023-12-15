@@ -1,5 +1,10 @@
-main.py
-src/router.py (handles routing logic)
-src/lez_handler.py (handles LEZ data and logic)
-src/map_visualizer.py (handles map visualization)
-data/20231214_LEZ_NL.geojson
+/
+├── main.py
+├── src/
+│   ├── add_point_to_map.py
+│   ├── coordinates.py
+│   ├── lez_handler.py
+│   ├── map_viewer.py
+│   └── router.py
+└── data/
+    └── 20231214_LEZ_NL.geojson
